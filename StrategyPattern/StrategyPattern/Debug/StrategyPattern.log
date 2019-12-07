@@ -1,0 +1,4 @@
+﻿  main.cpp
+cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+G:\19projects\StrategyPattern\StrategyPattern\main.cpp(21,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  StrategyPattern.vcxproj -> G:\19projects\StrategyPattern\Debug\StrategyPattern.exe
